@@ -1,4 +1,4 @@
-# Título
+# Faça pesquisas sem internet
 
 - Sim, eu sou um doido que com ajuda do ChatGPT estou criando artigos sobre tudo quer materia,
   fato historico, pessoas (apenas que ja morreram), temas, teorias da conspiração, e muito mais
