@@ -1,0 +1,13 @@
+A atmosfera é uma camada de gases que envolve a Terra e desempenha um papel fundamental na sustentação da vida e na proteção do nosso planeta. Ela é composta por várias camadas distintas, cada uma com características e propriedades únicas. Neste artigo, exploraremos as principais camadas da atmosfera e suas características.
+
+    Troposfera: A troposfera é a camada mais próxima da superfície da Terra, estendendo-se do solo até cerca de 12 quilômetros de altitude nos polos e 18 quilômetros nos trópicos. É nessa camada que ocorrem a maioria dos fenômenos meteorológicos, como nuvens, chuvas e ventos. A temperatura diminui à medida que a altitude aumenta nessa camada.
+
+    Estratosfera: Acima da troposfera está a estratosfera, que se estende até cerca de 50 quilômetros de altitude. A estratosfera é caracterizada por uma inversão de temperatura, onde a temperatura aumenta com a altitude, devido à presença da camada de ozônio. O ozônio desempenha um papel vital na absorção da radiação ultravioleta prejudicial do sol.
+
+    Mesosfera: A mesosfera está localizada acima da estratosfera e se estende até cerca de 85 quilômetros de altitude. É nessa camada que a temperatura começa a diminuir novamente com a altitude. A mesosfera é conhecida por ser a camada onde ocorrem os meteoros, que se desintegram ao entrar em contato com as moléculas de ar.
+
+    Termosfera: A termosfera está situada acima da mesosfera e se estende até uma altitude de aproximadamente 600 quilômetros. Nessa camada, a temperatura aumenta consideravelmente devido à absorção de energia solar. A termosfera também abriga a camada de íons, onde ocorrem fenômenos como as auroras boreais e a comunicação via rádio.
+
+    Exosfera: A exosfera é a camada mais externa da atmosfera e não possui um limite definido. Ela se estende além de centenas de quilômetros de altitude. Nessa região, a densidade do ar é extremamente baixa e as moléculas começam a se misturar com o espaço exterior. A exosfera é onde muitos satélites orbitam a Terra.
+
+Essas são as principais camadas da atmosfera terrestre, cada uma desempenhando um papel importante na regulação do clima, na proteção contra radiação solar prejudicial e no suporte à vida. Estudar e compreender essas camadas é essencial para entender os processos atmosféricos e o impacto das atividades humanas no equilíbrio ambiental.
